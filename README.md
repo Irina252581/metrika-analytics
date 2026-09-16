@@ -1,2 +1,2 @@
-# metrira-analytics
+# metrika-analytics
 Автоматизированная система анализа посещаемости сайта
